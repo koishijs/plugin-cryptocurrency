@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-cryptocurrency",
   "version": "0.1.0",
-  "description": "show market prices of cryptocurrencies for Koishi",
+  "description": "Show market prices of cryptocurrencies for Koishi.js",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
