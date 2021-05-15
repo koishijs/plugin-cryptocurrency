@@ -1,0 +1,17 @@
+{
+  "name": "koishi-plugin-cryptocurrency",
+  "version": "0.1.0",
+  "description": "show market prices of cryptocurrencies for Koishi",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib"
+  ],
+  "repository": "https://github.com/koishijs/plugin-cryptocurrency",
+  "author": "Shigma <1700011071@pku.edu.cn>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^15.3.0",
+    "typescript": "^4.2.4"
+  }
+}
